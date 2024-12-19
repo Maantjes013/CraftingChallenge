@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310a377d0abb27140a69133d36f17622, type: 3}
+  m_Name: Recipe_Bandage
+  m_EditorClassIdentifier: 
+  recipeItems:
+  - {fileID: 11400000, guid: 86db24263ec2b6e479eec0e2377b4007, type: 2}
+  - {fileID: 11400000, guid: b490cb7bae62a0b45a73052733b22c5a, type: 2}
+  createdItem: {fileID: 11400000, guid: d64f9b7bff890c74a8f490425a6c1d6b, type: 2}

@@ -1,0 +1,28 @@
+public enum ItemType
+{
+    Wood,
+    Stone,
+    Metal,
+    Leather,
+    Crystal,
+    Axe,
+    Pickaxe,
+    Sword,
+    Shield,
+    Bow,
+    Arrow,
+    FishingRod,
+    Net,
+    Potion,
+    Bandage,
+    FireAxe,
+    Drill,
+    Greatsword,
+    TowerShield,
+    Longbow,
+    FireArrow,
+    SuperRod,
+    ReinforcedNet,
+    Elixir,
+    Medkit
+}
